@@ -1,1 +1,1 @@
-# MCON_2023-1
+# Mecánica de Medios Continuos, Semestre 2023-1
